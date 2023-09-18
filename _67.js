@@ -1,4 +1,4 @@
-const entrada = require('prompt-sync')({ sigint: true })
+const prompt = require('prompt-sync')({ sigint: true })
 
 /* Faça um algoritmo que calcule e escreva a média aritmética dos números inteiros entre 15
 (inclusive) e 100 (inclusive).  */
